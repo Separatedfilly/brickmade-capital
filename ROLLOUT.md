@@ -10,7 +10,7 @@
 - Secondary: AI productivity (also an add-on on CRE engagements).
 - No rates, packages, or dollar amounts on the public site.
 - Consulting-only; do not feature other ventures; do not claim Brickmade buys property.
-- Careful with industrial acquisition language (VMD non-compete geography) — capital/underwriting support is framed as client-side advisory.
+- Careful with industrial acquisition language (non-compete geography from a prior operating role) — capital/underwriting support is framed as client-side advisory.
 
 ## Go-live steps (each requires David's explicit approval)
 1. **Approve copy & design** of this v2 draft and fill the TODOs below. ← next decision
